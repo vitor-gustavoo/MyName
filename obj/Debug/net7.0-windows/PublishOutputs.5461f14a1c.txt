@@ -1,0 +1,5 @@
+C:\Users\vitor.oliveira\Documents\projetosFaculdade\MyName\bin\Debug\net7.0-windows\publish\MyName.exe
+C:\Users\vitor.oliveira\Documents\projetosFaculdade\MyName\bin\Debug\net7.0-windows\publish\MyName.dll
+C:\Users\vitor.oliveira\Documents\projetosFaculdade\MyName\bin\Debug\net7.0-windows\publish\MyName.deps.json
+C:\Users\vitor.oliveira\Documents\projetosFaculdade\MyName\bin\Debug\net7.0-windows\publish\MyName.runtimeconfig.json
+C:\Users\vitor.oliveira\Documents\projetosFaculdade\MyName\bin\Debug\net7.0-windows\publish\MyName.pdb
